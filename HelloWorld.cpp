@@ -11,7 +11,6 @@ int main() {
     std::cout << "Enter name: " << flush;
     cin >> user_name;
     // greats user
-    std::cout << "Hello, " << user_name << "!" <<  endl;
-    std::cout << "Welcome to CSE 100!" << endl;
+    std::cout << "Hello World" << user_name << "!" <<  endl;
     return 0;
 }
